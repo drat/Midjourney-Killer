@@ -1,6 +1,6 @@
 # Midjourney-Killer
 Generator gambar AI dengan berbagai gaya visual seperti MidJourney, menggunakan Stable Diffusion dan Gradio sebagau UI.
-![ImageGenerator-a-Hugging-Face-Space-by-gws-technologies-05-24-2025_08_23_AM](https://github.com/user-attachments/assets/9255efd3-9bd2-4b56-bcb1-b1640e4d5d74)
+![MIDJOURNEY-a-Hugging-Face-Space-by-WatchOutForMike-05-24-2025_08_27_AM](https://github.com/user-attachments/assets/305a5e30-4950-46aa-b198-76d56bd0ea31)
 
 # 🧠 Midjourney Style Text-to-Image Generator (via app.py)
 
